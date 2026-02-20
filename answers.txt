@@ -1,0 +1,3 @@
+2: What field could data science be applied to? Give an Example.
+
+Answer: Retail and commerce, for example tracking customer behavior to better market products
