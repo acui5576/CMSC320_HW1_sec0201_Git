@@ -5,3 +5,12 @@ Answer: To track changes over time, work on features safely with others, and hav
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Retail and commerce, for example tracking customer behavior to better market products
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Git merge combines branches by preserving full history. Git rebase moves a branch's commits to the tip of another, creating a linear history by rewriting commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: having fun
